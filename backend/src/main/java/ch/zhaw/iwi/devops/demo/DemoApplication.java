@@ -1,4 +1,4 @@
-package ch.zhaw.iwi.devops.demo;
+package ch.zhaw. iwi.devops.demo;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
